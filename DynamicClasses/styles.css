@@ -1,0 +1,17 @@
+.container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .primary {
+    color: blue;
+  }
+  
+  .highlight {
+    background-color: yellow;
+  }
+  
+  .large {
+    font-size: 24px;
+  }
+  
