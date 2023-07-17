@@ -1,0 +1,14 @@
+#container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .list-item {
+    color: blue;
+    font-weight: bold;
+  }
+  
+  .paragraph {
+    color: green;
+  }
+  
